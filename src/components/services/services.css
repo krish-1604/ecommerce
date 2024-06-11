@@ -1,0 +1,41 @@
+.empty-div {
+    height: 10vh;
+}
+
+.empty-div-1 {
+    height: 20vh;
+}
+
+.empty-div-2 {
+    width: 10vw;
+}
+
+.row-div-1 {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    padding: 1vh 2vw 5vh 5vw;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.icon-text-1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+
+.icon-text p {
+    margin: 0; 
+}
+
+.upper-text {
+    color: rgba(52, 160, 164, 0.8);
+}
+
+

@@ -1,0 +1,23 @@
+.empty-div-habi {
+    height: 10vh;
+}
+
+.empty-div-habi-2 {
+    height: 8vh;
+}
+
+.empty-div-habi-3 {
+    width: 10vh;
+}
+
+.habi-row-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bed {
+    height: 250px;
+    width: 250px;
+    object-fit: cover; 
+}

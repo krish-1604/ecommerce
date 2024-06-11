@@ -1,0 +1,29 @@
+.events-bg{
+    height: 290px;
+    width: 100%;
+    margin-top: -10px;
+}
+.events-pic{
+    height: fit-content;
+}
+.events-title{
+    color: white;
+    margin-top: -13.2%;
+    margin-bottom: 2%;
+}
+
+.button-1 {
+    background-color: white;
+    border: none;
+    border-radius: 3.33vw; 
+    height: 6.5vh; 
+    width: 9.5vw;
+    margin-top: -50%; 
+    margin-bottom: 5%;
+}
+.events-button-text{
+    color:rgba(52, 160, 164, 0.8);
+    font-weight: bolder;
+}
+
+
